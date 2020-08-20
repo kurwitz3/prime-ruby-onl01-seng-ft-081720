@@ -6,3 +6,6 @@ def prime?(num)
   end
   true
 end
+def prime3?(num)
+  Prime.prime?(num)
+end
